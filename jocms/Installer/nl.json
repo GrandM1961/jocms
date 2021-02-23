@@ -1,0 +1,11 @@
+{
+  "I_ACC":"Maak account aan",
+  "I_ACC_TEXT":"Maak een nieuw administrator account. Hiermee kunt u de instellingen wijzigen en andere gebruikers toevoegen.",
+  "I_BACK":"Terug",
+  "I_ERR_PHP":"jocms is niet compatible met deze PHP versie. Minimaal 5.5 is nodig.",
+  "I_ERR_SQL":"Geen SQLite3 beschikbaar.",
+  "I_NEXT":"Volgende",
+  "I_OK":"Dat was het!",
+  "I_OK_TEXT":"<p>jocms is nu geïnstalleerd.</p><ul><li><b>Verwijder</b> nu het map <code>/jocms/Installer</code>.</li><li>U kunt nu inloggen en beginnen.</li><li>Als je van jocms houdt, link dan terug naar <code>jocms.rusciori.org</code> ;)</li></ul>",
+  "I_WELC_TEXT":"<p>Deze installatieprogramma leidt u door de installatie van jocms.</p><ul><li>AUB <b>backup uw bestanden</b> voordat u verder gaat, zodat niets wordt beschadigd!</li><li>jocms is nog steeds in beta status, dus er kunnen nog enkele fouten ontstaan doordat het nog niet geheel compleet is. Iik stel feedback erg op prijs.</li></ul>"
+}
